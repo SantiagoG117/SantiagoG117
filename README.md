@@ -22,6 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoG117&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Let's connect! 🌎
-[![3536505](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/28b4444a-b32f-4198-9cc7-c8daee875257)](www.linkedin.com/in/santiago-garcia-201792261)
+
+![3536505](www.linkedin.com/in/santiago-garcia-201792261)
+
 
 
