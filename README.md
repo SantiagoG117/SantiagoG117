@@ -9,4 +9,5 @@
 
 # Languages and tools I know (and am passionate about![octocat](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/30ce711f-9d86-4b97-b5f1-283fe62211b9))
 
-![5968282](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/f14af888-a403-4fb0-98ea-5d7938bea7ec)
+![5968282](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/f14af888-a403-4fb0-98ea-5d7938bea7ec)![4492311](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/6d7b3b90-0e0e-4df5-9a31-5062dd77587e)
+
