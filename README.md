@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Santiago
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/aab4f160-463a-4636-854d-c337b514feed)# 👋 Hello, I’m Santiago
 - 🎓 I am a Computer Programming student at Algonquin College!
 - 👀 I’m interested in using computer science and data science for social good ❤️
 - 🌱 I’m currently learning more about Algorithm Design Patterns, web and mobile development, Bussines Intelligence, and data analytics!
@@ -23,7 +23,6 @@
 
 # Let's connect! 🌎
 
-[![LinkedIN image](linkedin.png)](https://www.linkedin.com/in/santiago-garcia-201792261)
-
+[![LinkedIN image](linkedin.png)]](https://www.linkedin.com/in/santiago-garcia-201792261)
 
 
