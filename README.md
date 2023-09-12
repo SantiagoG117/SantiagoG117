@@ -23,7 +23,7 @@
 
 # Let's connect! 🌎
 
-[![3536505](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/1aab2bd4-3cf3-4d73-b659-2838cb592b68)](https://https://www.linkedin.com/in/santiago-garcia-201792261/)
+[![LinkedIn](linkedin.png)](https://https://www.linkedin.com/in/santiago-garcia-201792261/)
 
 
 
