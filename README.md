@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on projects to continue learning about programming (In love with back-end and data science! ☕🐍💻).
 - 📫 How to reach me: garc0254@algonquinlive.com
 - 💡 Fun fact: I love listening to old rock music and spent hours reading Tintin comic books :D
-  
-![Tintin](tintin.gif)
+
+     ![Tintin](tintin.gif)
