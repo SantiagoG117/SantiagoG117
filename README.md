@@ -7,5 +7,4 @@
 
      ![Tintin](tintin.gif)
 
-# Languages and tools I know (and am passionate about![octocat](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/30ce711f-9d86-4b97-b5f1-283fe62211b9)
- )
+# Languages and tools I know (and am passionate about![octocat](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/30ce711f-9d86-4b97-b5f1-283fe62211b9))
