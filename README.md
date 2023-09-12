@@ -23,7 +23,7 @@
 
 # Let's connect! 🌎
 
-[![LinkedIn](linkedin.png)](https://https://www.linkedin.com/in/santiago-garcia-201792261/)
+[![LinkedIn](/linkedin.png)](https://www.linkedin.com/in/santiago-garcia-201792261/)
 
 
 
