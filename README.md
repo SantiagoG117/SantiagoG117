@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Santiago
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/af27e58e-c76d-421e-90b8-0b2cd3b7e471)# 👋 Hello, I’m Santiago
 - 🎓 I am a Computer Programming student at Algonquin College!
 - 👀 I’m interested in using computer science and data science for social good ❤️
 - 🌱 I’m currently learning more about Algorithm Design Patterns, web and mobile development, Bussines Intelligence, and data analytics!
@@ -21,5 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoG117&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+# Let's connect! 🌎
+[![3536505](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/28b4444a-b32f-4198-9cc7-c8daee875257)](www.linkedin.com/in/santiago-garcia-201792261)
 
 
