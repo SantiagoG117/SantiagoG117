@@ -1,8 +1,8 @@
 # 👋 Hello, I’m Santiago
-- 🎓 I am a Computer Programming student at Algonquin College!
+- :briefcase: I am a Co-op full-stack developer working at Ontario Power Generation :battery:!
 - 👀 I’m interested in using computer science and data science for social good ❤️
-- 🌱 I’m currently learning about C#, the Entity Framework, the Model View Controler design pattern, and .NET!
-- 🖤 I’m looking to collaborate on projects to continue learning about programming (In love with back-end and data science! ☕🐍💻).
+- 🌱 I’m currently learning about ASP.NET MVC and Entity Framework!
+- 🖤 I’m looking to collaborate on projects to continue learning about programming ☕🐍💻.
 - 📫 How to reach me: garc0254@algonquinlive.com
 - 💡 Fun fact: I love listening to nature documentary music and spent hours reading Tintin comic books :D
 
