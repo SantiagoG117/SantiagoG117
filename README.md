@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Santiago
 - :briefcase: I am a React native developer working at Yubully! :computer:
 - 👀 I’m interested in using computer science and data science for social good ❤️
-- 🌱 I’m currently learning about ASP.NET MVC, jQuery and JavaScript!
+- 🌱 I’m currently learning about React Native! :atom_symbol:
 - 🖤 I’m looking to collaborate on projects to continue learning about programming ☕🐍💻.
 - 📫 How to reach me: garc0254@algonquinlive.com
 - 💡 Fun fact: I love listening to nature documentary music and spent hours reading Tintin comic books :D
