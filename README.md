@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Santiago
-- :briefcase: I am a Co-op student working at Ontario Power Generation :battery: as a full-stack developer!
+- :briefcase: I am a React native developer working at Yubully! :computer:
 - 👀 I’m interested in using computer science and data science for social good ❤️
 - 🌱 I’m currently learning about ASP.NET MVC, jQuery and JavaScript!
 - 🖤 I’m looking to collaborate on projects to continue learning about programming ☕🐍💻.
