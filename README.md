@@ -1,9 +1,9 @@
 # 👋 Hello, I’m Santiago
-- :briefcase: I am a React native developer working at Yubully! :computer:
-- 👀 I’m interested in using computer science and data science for social good ❤️
-- 🌱 I’m currently learning about React Native! :atom_symbol:
+- :briefcase: I am a Data Scientist for Sustainable Technologies at Recherche Solutions Matières Résiduelles! :computer:
+- 👀 I’m interested in using computer science and data science for the environment and common good ❤️
+- 🌱 I’m currently learning about React and Python for Data Science! :atom_symbol:
 - 🖤 I’m looking to collaborate on projects to continue learning about programming ☕🐍💻.
-- 📫 How to reach me: garc0254@algonquinlive.com
+- 📫 How to reach me: santiagoGP1177@outlook.com
 - 💡 Fun fact: I love listening to nature documentary music and spent hours reading Tintin comic books :D
 
      ![Tintin](tintin.gif)
@@ -27,7 +27,7 @@
 
 # Let's connect! 🌎
 
-[![LinkedIn](https://github.com/SantiagoG117/Icons/blob/main/linkidNEW.png)](https://www.linkedin.com/in/santiago-garcia-201792261/)
+[![LinkedIn](https://github.com/SantiagoG117/Icons/blob/main/linkidNEW.png)](https://www.linkedin.com/in/santiago-garcia-perez/)
 
 
 
