@@ -27,7 +27,8 @@
 
 # Let's connect! 🌎
 
-[![LinkedIn](https://github.com/SantiagoG117/Icons/blob/main/linkidNEW.png)](https://www.linkedin.com/in/santiago-garcia-perez/)
+[![image](https://github.com/user-attachments/assets/792f42b3-eecb-4063-88dd-fc7e1632eba6)
+](https://www.linkedin.com/in/santiago-garcia-perez/)
 
 
 
