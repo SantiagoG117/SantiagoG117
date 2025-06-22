@@ -9,7 +9,7 @@
      ![Tintin](tintin.gif)
 
 # Languages and tools I know (and am passionate about![octocat](https://github.com/SantiagoG117/SantiagoG117/assets/128077604/30ce711f-9d86-4b97-b5f1-283fe62211b9))
-![image](https://github.com/user-attachments/assets/b2e59409-6a56-48b2-abde-eaffb99be464)
+![image](https://github.com/user-attachments/assets/efd0313b-0ff2-4057-ae4a-20f89c601f3c)
 ![image](https://github.com/user-attachments/assets/05370bab-a79a-42c1-b6ca-186d65d8cc34)
 ![image](https://github.com/user-attachments/assets/e5e387fe-af08-4073-b3be-b06027b41488)
 ![image](https://github.com/user-attachments/assets/38567cdd-cfe8-4277-bfb4-020345947395)
