@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Santiago
-- :briefcase: I am a Data Scientist for Sustainable Technologies at Recherche Solutions Matières Résiduelles! :computer:
+- :briefcase: I am a Software Development Senior Specialist at NTT Data! :computer:
 - 👀 I’m interested in using computer science and data science for the environment and common good ❤️
-- 🌱 I’m currently learning about React and Python for Data Science! :atom_symbol:
+- 🌱 I’m currently learning about Blazor Views and AI Agent Orchestration! :atom_symbol:
 - 🖤 I’m looking to collaborate on projects to continue learning about programming ☕🐍💻.
 - 📫 How to reach me: santiagoGP1177@outlook.com
 - 💡 Fun fact: I love listening to nature documentary music and spent hours reading Tintin comic books :D
